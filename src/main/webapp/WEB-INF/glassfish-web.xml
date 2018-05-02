@@ -1,0 +1,3 @@
+<glassfish-web-app error-url="">
+    <context-root>/gateway</context-root>
+</glassfish-web-app>
